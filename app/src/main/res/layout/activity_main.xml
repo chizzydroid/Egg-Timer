@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/aes"
+    android:background="@drawable/ee"
     tools:context=".MainActivity">
 
 
@@ -12,14 +12,13 @@
         android:id="@+id/button"
         android:layout_width="133dp"
         android:layout_height="51dp"
-        android:layout_marginBottom="196dp"
+        android:layout_marginBottom="224dp"
         android:backgroundTint="@color/material_on_surface_stroke"
         android:text="Start Timer"
         android:textAllCaps="false"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent" />
 
 
